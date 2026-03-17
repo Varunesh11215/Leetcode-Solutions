@@ -17,6 +17,9 @@ class Solution {
                         if (s1 <= e){
                             check[j]=true;
                         }
+                        else{
+                            break;
+                        }
                     }
                 }
             }
