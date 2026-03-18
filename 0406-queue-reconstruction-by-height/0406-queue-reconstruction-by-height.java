@@ -6,19 +6,10 @@ class Solution {
             }
             return b[0]-a[0];
         });
-        int len=people.length;
-        for(int i=0;i<len;i++){
-            int target=people[i][1];
-            int t2=people[i][0];
-            if(i>target){
-                for(int j=i-1;j>=target;j--){
-                    people[j+1][1]=people[j][1];
-                    people[j+1][0]=people[j][0];
-                }
-            }
-            people[target][0]=t2;
-            people[target][1]=target;
+        List<int[]> queue = new ArrayList<>();
+        for (int[] p : people) {
+            queue.add(p[1], p);
         }
-        return people;
+        return queue.toArray(new int[queue.size()][]);
     }
 }
