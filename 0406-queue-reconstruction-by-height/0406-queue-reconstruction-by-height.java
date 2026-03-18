@@ -9,7 +9,6 @@ class Solution {
         int len=people.length;
         for(int i=0;i<len;i++){
             int target=people[i][1];
-            int t1=people[i][1];
             int t2=people[i][0];
             if(i>target){
                 for(int j=i-1;j>=target;j--){
@@ -18,7 +17,7 @@ class Solution {
                 }
             }
             people[target][0]=t2;
-            people[target][1]=t1;
+            people[target][1]=target;
         }
         return people;
     }
