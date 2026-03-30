@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
