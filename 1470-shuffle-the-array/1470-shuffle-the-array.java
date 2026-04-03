@@ -3,13 +3,8 @@ class Solution {
         int arr[]=new int[n*2];
         int k=0;
         for(int i=0;i<n;i++){
-            arr[k]=nums[i];
-            k+=2;
-        }
-        k=1;
-        for(int i=n;i<n*2;i++){
-            arr[k]=nums[i];
-            k+=2;
+            arr[k++]=nums[i];
+            arr[k++]=nums[i+n];
         }
         return arr;
     }
