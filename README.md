@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0135-candy) |
 | [0406-queue-reconstruction-by-height](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## String
