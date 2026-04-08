@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0135-candy) |
 | [0406-queue-reconstruction-by-height](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2751-robot-collisions](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2751-robot-collisions) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
