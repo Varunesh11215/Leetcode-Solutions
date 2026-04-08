@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0406-queue-reconstruction-by-height](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
