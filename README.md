@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Backtracking
 |  |
