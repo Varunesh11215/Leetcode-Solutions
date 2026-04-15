@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
