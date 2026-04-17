@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Backtracking
 |  |
 | ------- |
