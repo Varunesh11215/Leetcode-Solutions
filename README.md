@@ -104,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
