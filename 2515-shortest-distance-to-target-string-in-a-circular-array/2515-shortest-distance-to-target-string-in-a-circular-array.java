@@ -2,11 +2,10 @@ class Solution {
     public int closestTarget(String[] words, String target, int startindex) {
         int n=words.length;
         int fc=0;
-        int i=startindex;
-        if(words[i].equals(target)){
+        if(words[startindex].equals(target)){
             return 0;
         }
-        i=(i+1)%n;
+        int i=(startindex+1)%n;
         fc++;
         while(i!=startindex){
             if(words[i].equals(target)){
@@ -16,8 +15,7 @@ class Solution {
             i=(i+1)%n;
         }
         int bc=0;
-        i=startindex;
-        i=(i-1+n)%n;
+        i=(startindex-1+n)%n;
         bc++;
         while(i!=startindex){
             if(words[i].equals(target)){
