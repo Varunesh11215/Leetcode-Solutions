@@ -10,12 +10,9 @@ class Solution {
         }
         sum=0;
         for(int i=len-1;i>=0;i--){
-            right[i]=sum;
+            right[i]=Math.abs(sum-left[i]);
             sum+=nums[i];
         }
-        for(int i=0;i<len;i++){
-            nums[i]=Math.abs(right[i]-left[i]);
-        }
-        return nums;
+        return right;
     }
 }
