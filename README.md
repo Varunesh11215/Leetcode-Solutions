@@ -166,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
+| [1341-movie-rating](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
