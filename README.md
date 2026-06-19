@@ -166,5 +166,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1341-movie-rating](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
