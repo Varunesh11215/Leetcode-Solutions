@@ -28,22 +28,22 @@ class Solution {
             obstacleGrid[0][j]=-1;
         }
         for(int i=1;i<r;i++){
-    for(int j=1;j<c;j++){
-        if(obstacleGrid[i][j]==1){
-            obstacleGrid[i][j]=0;
-            continue;
+            for(int j=1;j<c;j++){
+                if(obstacleGrid[i][j]==1){
+                    obstacleGrid[i][j]=0;
+                    continue;
+                }
+
+                int top = obstacleGrid[i-1][j];
+                int left = obstacleGrid[i][j-1];
+
+                if(top < 0)
+                    obstacleGrid[i][j] += top;
+
+                if(left < 0)
+                    obstacleGrid[i][j] += left;
+            }
         }
-
-        int top = obstacleGrid[i-1][j];
-        int left = obstacleGrid[i][j-1];
-
-        if(top < 0)
-            obstacleGrid[i][j] += top;
-
-        if(left < 0)
-            obstacleGrid[i][j] += left;
-    }
-}
         int res=Math.abs(obstacleGrid[r-1][c-1]);
         return res;
     }
