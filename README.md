@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0292-nim-game) |
 ## Brainteaser
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
