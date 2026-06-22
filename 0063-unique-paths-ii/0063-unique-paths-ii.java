@@ -2,16 +2,6 @@ class Solution {
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
         int r=obstacleGrid.length;
         int c=obstacleGrid[0].length;
-        if(r==1||c==1){
-            for(int i=0;i<r;i++){
-                for(int j=0;j<c;j++){
-                    if(obstacleGrid[i][j]==1){
-                        return 0;
-                    }
-                }
-            }
-            return 1;
-        }
         if(obstacleGrid[0][0]==1||obstacleGrid[r-1][c-1]==1){
             return 0;
         }
