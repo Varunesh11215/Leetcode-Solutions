@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1029-two-city-scheduling](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2751-robot-collisions) |
