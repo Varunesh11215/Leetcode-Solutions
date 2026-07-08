@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [2751-robot-collisions](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 ## Simulation
 |  |
