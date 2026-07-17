@@ -5,35 +5,33 @@ class Solution {
         for(int i=0;i<r-1;i++){
             for(int j=0;j<c-1;j++){
                 char ch=grid[i][j];
-                int count=1;
-                if(ch==grid[i+1][j]){
-                    count++;
+                int cb=0;
+                int cw=0;
+                if(grid[i][j]=='B'){
+                    cb++;
                 }
-                if(ch==grid[i][j+1]){
-                    count++;
+                else{
+                    cw++;
                 }
-                if(ch==grid[i+1][j+1]){
-                    count++;
+                if('B'==grid[i+1][j]){
+                    cb++;
                 }
-                if(count>=3){
-                    return true;
+                else{
+                    cw++;
                 }
-            }
-        }
-        for(int i=r-1;i>0;i--){
-            for(int j=c-1;j>0;j--){
-                char ch=grid[i][j];
-                int count=1;
-                if(ch==grid[i-1][j]){
-                    count++;
+                if('B'==grid[i][j+1]){
+                    cb++;
                 }
-                if(ch==grid[i][j-1]){
-                    count++;
+                else{
+                    cw++;
                 }
-                if(ch==grid[i-1][j-1]){
-                    count++;
+                if('B'==grid[i+1][j+1]){
+                    cb++;
                 }
-                if(count>=3){
+                else{
+                    cw++;
+                }
+                if(cb>=3||cw>=3){
                     return true;
                 }
             }
