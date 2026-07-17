@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
+| [0197-rising-temperature](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [1193-monthly-transactions-i](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1193-monthly-transactions-i) |
