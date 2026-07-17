@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2751-robot-collisions](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2751-robot-collisions) |
+| [3127-make-a-square-with-the-same-color](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3127-make-a-square-with-the-same-color](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/3127-make-a-square-with-the-same-color) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [3127-make-a-square-with-the-same-color](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/3127-make-a-square-with-the-same-color) |
 <!---LeetCode Topics End-->
