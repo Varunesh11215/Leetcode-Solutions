@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0937-reorder-data-in-log-files](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0937-reorder-data-in-log-files) |
+| [0973-k-closest-points-to-origin](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1470-shuffle-the-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0937-reorder-data-in-log-files](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0937-reorder-data-in-log-files) |
+| [0973-k-closest-points-to-origin](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0973-k-closest-points-to-origin](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0973-k-closest-points-to-origin](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Brainteaser
 |  |
@@ -233,5 +237,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
