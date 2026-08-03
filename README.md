@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2055-plates-between-candles](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2055-plates-between-candles) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2751-robot-collisions](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 ## Binary Indexed Tree
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 ## Dynamic Programming
@@ -243,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Geometry
 |  |
 | ------- |
