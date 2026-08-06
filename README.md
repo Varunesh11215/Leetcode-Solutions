@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0973-k-closest-points-to-origin](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
+| [1046-last-stone-weight](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1470-shuffle-the-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Geometry
