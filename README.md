@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0937-reorder-data-in-log-files](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0973-k-closest-points-to-origin](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1029-two-city-scheduling](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0937-reorder-data-in-log-files](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0973-k-closest-points-to-origin](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Combinatorics
 |  |
@@ -257,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
