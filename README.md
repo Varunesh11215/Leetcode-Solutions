@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0079-word-search) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/3127-make-a-square-with-the-same-color) |
 ## Hash Table
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -300,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
