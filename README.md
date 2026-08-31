@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0937-reorder-data-in-log-files](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0973-k-closest-points-to-origin](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1470-shuffle-the-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/3127-make-a-square-with-the-same-color) |
 ## Hash Table
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0079-word-search) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
