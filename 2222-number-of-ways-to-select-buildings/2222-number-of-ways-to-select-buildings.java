@@ -1,7 +1,8 @@
 class Solution {
     public long numberOfWays(String s) {
-        long one=0,zero=0,oz=0,zo=0,ways=0;
-        for(int i=0;i<s.length();i++){
+        long zero=0,one=0,zo=0,oz=0,ways=0;
+        int n=s.length();
+        for(int i=0;i<n;i++){
             if(s.charAt(i)=='0'){
                 zero++;
                 oz+=one;
