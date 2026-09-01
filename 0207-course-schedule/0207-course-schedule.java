@@ -5,14 +5,10 @@ class Solution {
             li.add(new ArrayList<>());
         }
         int n=prerequisites.length;
+        int deg[]=new int[v];
         for(int i=0;i<n;i++){
             li.get(prerequisites[i][1]).add(prerequisites[i][0]);
-        }
-        int deg[]=new int[v];
-        for(int i=0;i<v;i++){
-            for(int j:li.get(i)){
-                deg[j]++;
-            }
+            deg[prerequisites[i][0]]++;
         }
         int c=0;
         Queue<Integer> q =new LinkedList<>();
