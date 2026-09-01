@@ -1,26 +1,25 @@
 class Solution {
-    public boolean canFinish(int v, int[][] prerequisites) {
+    public boolean canFinish(int v, int[][] pre) {
         ArrayList<ArrayList<Integer>> li=new ArrayList<>();
+        int n=pre.length;
         for(int i=0;i<v;i++){
             li.add(new ArrayList<>());
         }
-        int n=prerequisites.length;
         int deg[]=new int[v];
         for(int i=0;i<n;i++){
-            li.get(prerequisites[i][1]).add(prerequisites[i][0]);
-            deg[prerequisites[i][0]]++;
+            li.get(pre[i][1]).add(pre[i][0]);
+            deg[pre[i][0]]++;
         }
+        Queue<Integer> q=new LinkedList<>();
         int c=0;
-        Queue<Integer> q =new LinkedList<>();
         for(int i=0;i<v;i++){
             if(deg[i]==0){
                 q.add(i);
             }
         }
-        int count=0;
         while(!q.isEmpty()){
             int k=q.poll();
-            count++;
+            c++;
             for(int i:li.get(k)){
                 deg[i]--;
                 if(deg[i]==0){
@@ -28,7 +27,6 @@ class Solution {
                 }
             }
         }
-        return count==v;
-
+        return c==v;
     }
 }
