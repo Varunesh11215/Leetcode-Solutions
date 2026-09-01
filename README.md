@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2055-plates-between-candles](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2055-plates-between-candles) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Backtracking
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2055-plates-between-candles](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2055-plates-between-candles) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2574-left-and-right-sum-differences](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Linked List
 |  |
