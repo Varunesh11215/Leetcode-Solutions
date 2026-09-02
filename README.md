@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2055-plates-between-candles](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2055-plates-between-candles) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
+| [2437-number-of-valid-clock-times](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2437-number-of-valid-clock-times) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Backtracking
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2437-number-of-valid-clock-times](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/2437-number-of-valid-clock-times) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/3127-make-a-square-with-the-same-color) |
 ## Heap (Priority Queue)
 |  |
