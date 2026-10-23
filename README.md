@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1193-monthly-transactions-i) |
 | [1341-movie-rating](https://github.com/Varunesh11215/Leetcode-Solutions/tree/master/1341-movie-rating) |
 ## Counting
